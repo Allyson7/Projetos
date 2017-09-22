@@ -16,6 +16,7 @@ public class Projeto {
      */
     public static void main(String[] args) {
         String s = "Mensagem";
+        System.out.print(s);
         // TODO code application logic here
     }
     
